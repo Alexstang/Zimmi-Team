@@ -4,34 +4,34 @@
 
 ### The Sign "@@@" implies their image is in this repository but not on the site
 
-__Ira Miller__
+[__Ira Miller__](https://github.com/Alexstang/Zimmi-Team/blob/master/ira-miller.jpg)
 
-__Cindy Zimmerman__
+[__Cindy Zimmerman__](https://github.com/Alexstang/Zimmi-Team/blob/master/CindyZimmerman.jpeg)
 
-__Chris Mejia__
+[__Chris Mejia__](https://github.com/Alexstang/Zimmi-Team/blob/master/ChrissMejia.jpg)
 
-__Aldo Antinori__
+[__Aldo Antinori__](https://github.com/Alexstang/Zimmi-Team/blob/master/Aldo-Antinori.jpg)
 
-__Juan Kong__
+[__Juan Kong__](https://github.com/Alexstang/Zimmi-Team/blob/master/JuanKong.jpg)
 
-__Fernando Dreyfus__
+[__Fernando Dreyfus__](https://github.com/Alexstang/Zimmi-Team/blob/master/FernandoDreyfus.jpeg)
 
-__Daniel Castellanos__
+[__Daniel Castellanos__](https://github.com/Alexstang/Zimmi-Team/blob/master/DanielCastellanos.png)
 
-__Giuseppe Cicatelli__
+[__Giuseppe Cicatelli__](https://github.com/Alexstang/Zimmi-Team/blob/master/GiuseppeCicatelli.jpg)
 
-__Gabriel Abed__
+[__Gabriel Abed__](https://github.com/Alexstang/Zimmi-Team/blob/master/Gabriel_Abed.jpg)
 
-Pamela Rodriguez @@@
+[Pamela Rodriguez](https://github.com/Alexstang/Zimmi-Team/blob/master/Pamela-Rodriguez.jpg) @@@
 
-Alex Ball
+[Alex Ball](
 
-Alex Stang @@@
+[Alex Stang](https://github.com/Alexstang/Zimmi-Team/blob/master/AlexStang.jpg) @@@
 
-Michael Stang
+[Michael Stang](
 
-Ingrid Suarez
+[Ingrid Suarez](
 
-Adriaan Beiertz
+[Adriaan Beiertz](
 
-Lewi 
+[Lewi](
