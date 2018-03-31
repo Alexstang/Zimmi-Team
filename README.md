@@ -24,11 +24,11 @@
 
 [Pamela Rodriguez](https://github.com/Alexstang/Zimmi-Team/blob/master/Pamela-Rodriguez.jpg) @@@
 
-[Alex Ball](https://github.com/Alexstang/Zimmi-Team/blob/master/AlexBall.jpg)
+[Alex Ball](https://github.com/Alexstang/Zimmi-Team/blob/master/AlexBall.jpg) @@@
 
 [Alex Stang](https://github.com/Alexstang/Zimmi-Team/blob/master/AlexStang.jpg) @@@
 
-[Michael Stang](https://github.com/Alexstang/Zimmi-Team/blob/master/MichaelStang.JPG)
+[Michael Stang](https://github.com/Alexstang/Zimmi-Team/blob/master/MichaelStang.JPG) @@@
 
 [Ingrid Suarez](
 
