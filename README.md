@@ -1,6 +1,8 @@
 # Zimmi-Team
 
-## Bold writing implies they're on the site already
+## Bold writing implies they're on the site [guld.io](guld.io) already
+
+### The Sign "@@@" implies their image is in this repository but not on the site
 
 __Ira Miller__
 
