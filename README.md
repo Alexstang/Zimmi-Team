@@ -28,7 +28,7 @@
 
 [Alex Stang](https://github.com/Alexstang/Zimmi-Team/blob/master/AlexStang.jpg) @@@
 
-[Michael Stang](
+[Michael Stang](https://github.com/Alexstang/Zimmi-Team/blob/master/MichaelStang.JPG)
 
 [Ingrid Suarez](
 
