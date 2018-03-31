@@ -24,7 +24,7 @@
 
 [Pamela Rodriguez](https://github.com/Alexstang/Zimmi-Team/blob/master/Pamela-Rodriguez.jpg) @@@
 
-[Alex Ball](
+[Alex Ball](https://github.com/Alexstang/Zimmi-Team/blob/master/AlexBall.jpg)
 
 [Alex Stang](https://github.com/Alexstang/Zimmi-Team/blob/master/AlexStang.jpg) @@@
 
