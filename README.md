@@ -30,8 +30,8 @@
 
 [Michael Stang](https://github.com/Alexstang/Zimmi-Team/blob/master/MichaelStang.JPG) @@@
 
+[Lewi Robletto](https://github.com/Alexstang/Zimmi-Team/blob/master/lewi_robletto.jpg) @@@
+
 [Ingrid Suarez](
 
 [Adriaan Beiertz](
-
-[Lewi Robletto](
