@@ -2,6 +2,8 @@
 
 ## Bold writing implies they're on the site [guld.io](guld.io) already
 
+### The Sign "###" implies they're not a member of Zimmi
+
 ### The Sign "@@@" implies their image needs to be added to the site or changed. 
 
 [__Ira Miller__](https://github.com/Alexstang/Zimmi-Team/blob/master/Ira%20Headshot.jpg) @@@
@@ -18,9 +20,9 @@
 
 [__Daniel Castellanos__](https://github.com/Alexstang/Zimmi-Team/blob/master/Daniel%20Headshot.jpg) @@@
 
-[__Giuseppe Cicatelli__](https://github.com/Alexstang/Zimmi-Team/blob/master/GiuseppeCicatelli.jpg)
+[__Giuseppe Cicatelli__](https://github.com/Alexstang/Zimmi-Team/blob/master/GiuseppeCicatelli.jpg) \###
 
-[__Gabriel Abed__](https://github.com/Alexstang/Zimmi-Team/blob/master/Gabriel_Abed.jpg)
+[__Gabriel Abed__](https://github.com/Alexstang/Zimmi-Team/blob/master/Gabriel_Abed.jpg) \###
 
 [Pamela Rodriguez](https://github.com/Alexstang/Zimmi-Team/blob/master/Pamela%20Headshot.jpg) @@@
 
